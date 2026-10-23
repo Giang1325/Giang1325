@@ -1,29 +1,34 @@
-# Nguyễn Trường Giang
+# Hi, I'm Nguyễn Trường Giang 👋
 
-Sinh viên năm tư ngành Kỹ thuật Điện tử – Viễn thông, Đại học Bách Khoa Hà Nội. Định hướng phát triển theo hướng Kỹ sư Lập trình nhúng (Embedded Software Engineer), tập trung vào lập trình C/C++ trên vi điều khiển và làm việc với hệ thống phần cứng thực tế.
+Final-year Electronics and Telecommunications student at **Hanoi University of Science and Technology (HUST)**. I'm pursuing a career as an **Embedded Software Engineer**, with a focus on C/C++ programming for microcontrollers and working with real-world hardware systems.
 
-## Định hướng nghề nghiệp
+## 🎯 Career Goals
 
-Đang tìm kiếm cơ hội thực tập và làm việc tại các công ty công nghệ có định hướng phát triển sản phẩm phần cứng và IoT. Mục tiêu là phát triển sâu hơn kỹ năng lập trình vi điều khiển, làm việc với các chuẩn giao tiếp ngoại vi (UART, I2C, SPI) và hệ điều hành thời gian thực (RTOS).
+I'm currently seeking **internship and full-time opportunities** at technology companies developing hardware and IoT products. My goal is to deepen my skills in microcontroller programming, peripheral communication protocols (UART, I2C, SPI), and real-time operating systems (RTOS).
 
-## Kỹ năng chuyên môn
+## 🛠️ Technical Skills
 
-- Lập trình C/C++ cho vi điều khiển (ESP32)
-- Giao tiếp ngoại vi: UART, I2C, SPI
-- Đọc hiểu sơ đồ nguyên lý và thiết kế mạch in (PCB) cơ bản
-- Công cụ: VS Code, Arduino IDE, Proteus, Altium Designer
+- **Programming:** C/C++ for microcontrollers (ESP32)
+- **Communication protocols:** UART, I2C, SPI
+- **Hardware:** Reading schematics, basic PCB design
+- **Tools:** VS Code, Arduino IDE, Proteus, Altium Designer
 
-## Dự án tiêu biểu
+## 🚀 Featured Project
 
-**Trạm quan trắc chất lượng không khí đa thông số** *(Kỳ học 2025.2)*
+### [Multi-Parameter Air Quality Monitoring Station](https://github.com/Giang1325/Air_Quality_Monitor) *(Semester 2025.2)*
 
-Hệ thống giám sát chất lượng không khí trên nền tảng ESP32, thu thập dữ liệu từ cảm biến bụi PMS5003 (UART) và cảm biến môi trường BME680 (I2C), tích hợp đồng hồ thời gian thực DS3231 và lưu trữ dữ liệu qua MicroSD. Firmware được thiết kế theo cơ chế lập lịch không chặn (non-blocking scheduling) nhằm xử lý đồng thời nhiều giao tiếp ngoại vi. Dữ liệu được truyền qua WiFi bằng giao thức MQTT lên nền tảng Adafruit IO, đồng thời lưu cục bộ dưới định dạng CSV. Dự án còn bao gồm xây dựng mô hình hiệu chuẩn cảm biến bằng hồi quy tuyến tính đa biến, thiết kế sơ đồ nguyên lý, layout PCB và kiểm thử tích hợp hệ thống.
+An ESP32-based air quality monitoring system that collects data from a PMS5003 particulate sensor (UART) and a BME680 environmental sensor (I2C), integrated with a DS3231 real-time clock and MicroSD data logging.
 
-## Ngoại ngữ
+- Firmware built on **non-blocking scheduling** to handle multiple peripheral interfaces concurrently
+- Data transmitted over WiFi via **MQTT** to **Adafruit IO**, with local backup in CSV format
+- Sensor calibration model using **multivariate linear regression**
+- Schematic design, **PCB layout**, and system integration testing
 
-Tiếng Anh: IELTS 5.5, TOEIC 630 — có khả năng đọc hiểu tài liệu kỹ thuật.
+## 🌐 Languages
 
-## Liên hệ
+- **English:** TOEIC 630 — comfortable reading technical documentation
 
-- Email: giang01032005@gmail.com
-- LinkedIn: [linkedin.com/in/nguyễn-trường-giang-8569a7367](https://www.linkedin.com/in/nguy%E1%BB%85n-tr%C6%B0%E1%BB%9Dng-giang-8569a7367)
+## 📫 Contact
+
+- 💼 **LinkedIn:** [Nguyễn Trường Giang](https://www.linkedin.com/in/nguyen-truong-giang-01032005ntg/)
+- 📧 **Email:** giang01032005@gmail.com
