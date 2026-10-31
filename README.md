@@ -17,12 +17,12 @@ I'm currently seeking **internship and full-time opportunities** at technology c
 
 ### [Multi-Parameter Air Quality Monitoring Station](https://github.com/Giang1325/Air_Quality_Monitor) *(Semester 2025.2)*
 
-An ESP32-based air quality monitoring system that collects data from a PMS5003 particulate sensor (UART) and a BME680 environmental sensor (I2C), integrated with a DS3231 real-time clock.
+An ESP32-based station measuring PM2.5/PM10 (PMS5003 via UART) and temperature, humidity, pressure (BME680 via I2C), with DS3231 RTC time sync and an OLED display. I led the firmware and system design.
 
-- Firmware built on **non-blocking scheduling** to handle multiple peripheral interfaces concurrently
-- Data transmitted over WiFi via **MQTT** to **Adafruit IO**
-- Sensor calibration model using **multivariate linear regression**
-- Schematic design, **PCB layout**, and system integration testing
+- Firmware built on **non-blocking scheduling** to handle multiple peripherals concurrently
+- Data streamed over Wi-Fi via **MQTT** to **Adafruit IO** for remote monitoring
+- Sensor calibration using **full quadratic regression**, reducing PM2.5 RMSE by **~88%** against a reference AQI station
+- Schematic and **PCB design** in Altium Designer; stable operation over ~100 hours of field testing
 
 ## 🌐 Languages
 
