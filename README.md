@@ -12,6 +12,7 @@ I'm currently seeking **internship and full-time opportunities** at technology c
 - **Communication protocols:** UART, I2C, SPI
 - **Hardware:** Reading schematics, basic PCB design
 - **Tools:** VS Code, Arduino IDE, Proteus, Altium Designer
+- **Debugging & testing:** ADB, logcat, root cause analysis
 
 ## 🚀 Featured Project
 
@@ -23,6 +24,17 @@ An ESP32-based station measuring PM2.5/PM10 (PMS5003 via UART) and temperature, 
 - Data streamed over Wi-Fi via **MQTT** to **Adafruit IO** for remote monitoring
 - Sensor calibration using **full quadratic regression**, reducing PM2.5 RMSE by **~88%** against a reference AQI station
 - Schematic and **PCB design** in Altium Designer; stable operation over ~100 hours of field testing
+
+## 💼 Experience
+
+### IoT R&D Intern — Viettel Telecom *(Aug 2026 – Nov 2026)*
+
+IoT Department, Viettel Telecom
+
+- Deployed firmware and application updates to Android set-top boxes through device management platforms (TMS, SMP), using both OTA and manual USB/ADB methods
+- Tested devices using ADB (dumpsys, logcat) and classified defects into firmware-level and application-level issues
+- Analyzed logcat output to trace the root cause of system-level failures on devices
+- Took part in internal acceptance testing of an STB monitoring system and wrote a USB firmware update guide for field technicians
 
 ## 🌐 Languages
 
