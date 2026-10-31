@@ -27,6 +27,7 @@ An ESP32-based station measuring PM2.5/PM10 (PMS5003 via UART) and temperature, 
 ## 🌐 Languages
 
 - **English:** TOEIC 630 — comfortable reading technical documentation
+- **English:** VSTEP Level 4 (7.0 - B2 CEFR) — comfortable reading technical documentation and communicating in professional settings
 
 ## 📫 Contact
 
