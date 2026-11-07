@@ -44,4 +44,4 @@ IoT Department, Viettel Telecom
 ## 📫 Contact
 
 - 💼 **LinkedIn:** [Nguyễn Trường Giang](https://www.linkedin.com/in/nguyen-truong-giang-01032005ntg/)
-- 📧 **Email:** giang01032005@gmail.com 
+- 📧 **Email:** giang01032005@gmail.com
